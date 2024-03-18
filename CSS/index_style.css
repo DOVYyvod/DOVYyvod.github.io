@@ -1,0 +1,96 @@
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+body{
+    background-color:#31363F;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+
+.Prisistatymas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #76ABAE;
+    backdrop-filter: blur(10px);
+    border-radius:10px;
+    width: 100%;
+    padding: 20px;
+    height: 70vh;
+    gap: 1rem;
+    box-shadow: -10px 10px 10px rgba(0, 0, 0.4, 0.4);
+}
+
+.trumpai_apie{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    flex-wrap: nowrap;
+
+    
+}
+
+img{
+    max-width: 98%;
+    max-height: 98%;
+    border-radius: 50%;
+    border: 8px solid #31363F;
+    box-shadow: -10px 10px 10px rgba(0, 0, 0.2, 0.2);
+}
+
+.mano_foto{
+    display: flex;
+    margin:5px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:30px;
+    margin-top:20px
+}
+
+.sužinok_daugiau{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #EEEEEE;
+    width:fit-content;
+    height: 40px;
+
+}
+
+.sužinok_daugiau a{
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 1,5;
+    width: 100%;
+    transition: all 0.4s ease-in-out;
+    box-shadow: -10px 10px 10px rgba(0, 0, 0.1, 0.1);
+  }
+  
+  .sužinok_daugiau a:hover{
+    transform: scale(1.1);
+    background-color: whitesmoke;
+    color: rgb(34, 40, 49);
+  }

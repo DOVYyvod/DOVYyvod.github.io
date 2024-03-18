@@ -1,0 +1,537 @@
+
+/*KAS AS PER VEINS*/
+
+       /*tablet*/
+@media (max-width: 770px){
+    #KasAs{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .AsMocasIMG{
+      max-width: 50%;
+    }
+  }
+       /*tablet*/
+  
+       /*mobile S*/
+  @media (max-width: 322px){
+    #KasAs{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .KAPV{
+      width: 90%;
+    }
+  
+    .AsMocasIMG{
+      max-width: 90%;
+    }
+  }
+       /*mobile S*/
+  
+       /*mobile M*/
+  @media (max-width: 377px){
+    #KasAs{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .KAPV{
+      width: 90%;
+    }
+  
+    .AsMocasIMG{
+      max-width: 100%;
+    }
+  }
+       /*mobile M*/
+  
+       /*Mobile L*/
+     @media (max-width: 427px){
+        #KasAs{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .KAPV{
+          width: 90%;
+        }
+      
+        .AsMocasIMG{
+          max-width: 100%;
+        }
+    }
+       /*mobile L*/
+
+       /*laptop*/
+       @media (max-width: 1026px){
+        #KasAs{
+          flex-direction: row;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .KAPV{
+          width: 90%;
+        }
+      
+        .AsMocasIMG{
+          max-width: 70%;
+        }
+    }
+       /*laptop*/
+  
+  /*KAS AS PER VEINS*/
+
+
+/*MANO SEIMA*/
+        /*tablet*/
+@media (max-width: 770px){
+    #ManoS{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .manoseima{
+      max-width: 50%;
+    }
+  }
+        /*tablet*/
+  
+       /*mobile S*/
+  @media (max-width: 322px){
+    #ManoS{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .ManoSAprasas{
+      width: 90%;
+    }
+  
+    .manoseima{
+      max-width: 100%;
+    }
+  }
+      /*mobile S*/
+  
+      /*mobile M*/
+  @media (max-width: 377px){
+    #ManoS{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .ManoSAprasas{
+      width: 90%;
+    }
+  
+    .manoseima{
+      max-width: 100%;
+    }
+  }
+      /*mobile M*/
+
+    /*Mobile L*/
+    @media (max-width: 427px){
+        #ManoS{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .ManoSAprasas{
+          width: 90%;
+        }
+      
+        .manoseima{
+          max-width: 100%;
+        }
+    }
+       /*mobile L*/
+
+       /*laptop*/
+       @media (max-width: 1026px){
+        #ManoS{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .ManoSAprasas{
+          width: 90%;
+        }
+      
+        .manoseima{
+          max-width: 100%;
+        }
+    }
+       /*laptop*/
+  
+  /*MANO SEIMA*/
+
+
+  /*MANO POMEGIAI*/
+
+       /*tablet*/
+  @media (max-width: 770px){
+    #ManoP{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .PomegisMocasJPG{
+      max-width: 50%;
+    }
+  }
+       /*tablet*/
+  
+       /*mobile S*/
+  @media (max-width: 322px){
+    #ManoP{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .PomegiuAprasas{
+      width: 90%;
+    }
+  
+    .PomegisMocasJPG{
+      max-width: 100%;
+    }
+  }
+       /*mobile S*/
+  
+       /*mobile M*/
+  @media (max-width: 377px){
+    #ManoP{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .PomegiuAprasas{
+      width: 90%;
+    }
+  
+    .PomegisMocasJPG{
+      max-width: 100%;
+    }
+  }
+       /*mobile M*/
+
+       /*Mobile L*/
+     @media (max-width: 427px){
+        #ManoP{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .PomegiuAprasas{
+          width: 90%;
+        }
+      
+        .PomegisMocasJPG{
+          max-width: 100%;
+        }
+    }
+       /*mobile L*/
+
+       /*laptop*/
+       @media (max-width: 1026px){
+        #ManoP{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .PomegiuAprasas{
+          width: 90%;
+        }
+      
+        .PomegisMocasJPG{
+          max-width: 70%;
+        }
+    }
+       /*laptop*/
+
+  /*MANO POMEGIAI*/
+  
+  /*MANO DARBAS*/
+ 
+       /*tablet*/
+  @media (max-width: 770px){
+    #ManoD{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .ManoDarbas{
+      max-width: 50%;
+    }
+  }
+       /*tablet*/
+  
+       /*mobile S*/
+  @media (max-width: 322px){
+    #ManoD{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .DarboAprasas{
+      max-width: 90%;
+    }
+  
+    .ManoDarbas{
+      max-width: 100%;
+    }
+  }
+       /*mobile S*/
+  
+       /*mobile M*/
+  @media (max-width: 377px){
+    #ManoD{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .DarboAprasas{
+      width: 80%;
+    }
+  
+    .ManoDarbas{
+      max-width: 100%;
+    }
+  }
+       /*mobile M*/
+       /*Mobile L*/
+     @media (max-width: 427px){
+        #ManoD{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .DarboAprasas{
+          width: 100%;
+        }
+      
+        .ManoDarbas{
+          max-width: 100%;
+        }
+    }
+       /*mobile L*/
+
+       /*laptop*/
+       @media (max-width: 1026px){
+        #ManoD{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .DarboAprasas{
+          width: 100%;
+        }
+      
+        .ManoDarbas{
+          max-width: 100%;
+        }
+    }
+       /*laptop*/
+  
+  /*MANO DARBAS*/
+  
+  /*KA MOKAUSI*/
+  
+       /*tablet*/
+  @media (max-width: 770px){
+    #KaM{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .Mokausi{
+      width: 70%;
+    }
+  
+    .KaMokausi{
+      max-width: 50%;
+    }
+  }
+       /*tablet*/
+  
+       /*mobile S*/
+  @media (max-width:  322px){
+    #KaM{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .Mokausi{
+      width: 90%;
+    }
+  
+    .KaMokausi{
+      max-width: 100%;
+    }
+  }
+       /*mobile S*/
+  
+       /*mobile M*/
+  @media (max-width: 377px){
+    #KaM{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .Mokausi{
+      width: 100%;
+    }
+  
+    .KaMokausi{
+      max-width: 100%;
+    }
+  }
+       /*mobile M*/
+
+       /*Mobile L*/
+     @media (max-width: 427px){
+        #KaM{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .Mokausi{
+          width: 90%;
+        }
+      
+        .KaMokausi{
+          max-width: 100%;
+        }
+    }
+       /*mobile L*/
+
+       /*laptop*/
+       @media (max-width: 1026px){
+        #KaM{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .Mokausi{
+          width: 100%;
+        }
+      
+        .KaMokausi{
+          max-width: 70%;
+        }
+    }
+       /*laptop*/
+  
+  /*KA MOKAUSI*/
+
+
+  
+
+       /*SideBar*/
+  @media (max-width: 1028px){
+    .Migtukai{
+      display: none;
+    }
+    .menu-button{
+      display: block;
+    }
+  }
+  
+  @media(max-width: 322px){
+    .SideBar{
+      width: 100%;
+    }
+  }
+       /*SideBar*/
+
+
+      /*FONT SIZE*/
+@media(max-width:770px){
+  h2{
+    font-size: 60px;
+  }
+  p{
+    font-size: 30px;
+  }
+}
+
+@media(max-width:1025px){
+  h2{
+    font-size: 60px;
+  }
+  p{
+    font-size: 30px;
+  }
+}
+
+@media(max-width:1441px){
+  h2{
+    font-size: 60px;
+  }
+  p{
+    font-size: 30px;
+  }
+}
+
+@media(min-width:1441px){
+  h2{
+    font-size: 70px;
+  }
+  p{
+    font-size: 40px;
+  }
+}
+
+@media(max-width:322px){
+  h2{
+    font-size: 40px;
+  }
+  p{
+    font-size: 25px;
+  }
+}
+
+@media(max-width:377px){
+  h2{
+    font-size: 40px;
+  }
+  p{
+    font-size: 25px;
+  }
+}
+
+@media(max-width:427px){
+  h2{
+    font-size: 40px;
+  }
+  p{
+    font-size: 25px;
+  }
+}
+      /*FONT SIZE*/

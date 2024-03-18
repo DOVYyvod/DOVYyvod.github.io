@@ -1,0 +1,64 @@
+@media(max-width:377px){
+    .Prisistatymas{
+        height: fit-content;
+    }
+}
+
+@media(max-width:427px){
+    .Prisistatymas{
+        height: fit-content;
+    }
+}
+
+@media(max-width:770px){
+    .Prisistatymas{
+        height: fit-content;
+        width:80%;
+    }
+
+    img{
+        width: 70%;
+        height: 70%;
+    }    
+}
+
+@media(max-width:1026px){
+    .Prisistatymas{
+        height: fit-content;
+        width:80%;
+    }
+
+    img{
+        width: 70%;
+        height: 70%;
+    }    
+}
+
+@media(max-width:1442px){
+    .Prisistatymas{
+        height: fit-content;
+        max-width:80%;
+    }
+
+    img{
+        width: 70%;
+        height: 70%;
+    }    
+}
+
+@media(min-width:1443px){
+    .Prisistatymas{
+        height: 90%;
+        max-width:80%;
+    }
+
+    img{
+        width: 90%;
+        height: 90%;
+    }
+    
+    .trumpai_apie{
+        width:60%;
+    }
+}
+
